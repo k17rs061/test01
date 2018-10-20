@@ -1,0 +1,20 @@
+body{
+background:#D1EEEE;
+}
+h2{
+font-size:2em;
+color:#00AFCB;
+}
+ul{
+border-color:#FF0000;
+border-style:solid;
+border-width:0.2em 1em 0.2em 1em;
+}
+ol{
+border-color:#AA00FF;
+border-style:solid;
+border-radius:10px;
+}
+a{
+font-style:oblique;
+}
